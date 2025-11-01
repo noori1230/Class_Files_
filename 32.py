@@ -1,0 +1,5 @@
+print("\u273F")
+print("\u2740")
+print("\U0001F338")
+print("\u272F")
+print("\u2730")
